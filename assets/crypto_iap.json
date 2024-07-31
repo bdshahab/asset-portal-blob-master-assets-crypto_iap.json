@@ -1,12 +1,12 @@
 {
   "author": "bdshahab",
   "description": "A sample project showing how to enable in-app purchases using cryptocurrencies.",
-  "forum_url": "",
+  "forum_url": "https://forum.defold.com/t/in-app-purchasing-by-cryptocurrency/75962",
   "images": {
-    "hero": "https://raw.githubusercontent.com/bdshahab/in-app-purchasing-by-crypto/main/image_B.png",
-    "thumb": "https://raw.githubusercontent.com/bdshahab/in-app-purchasing-by-crypto/main/image_B.png"
+    "hero": "https://raw.githubusercontent.com/bdshahab/in-app-purchasing-by-crypto/main/image_B_1200_600.png",
+    "thumb": "https://raw.githubusercontent.com/bdshahab/in-app-purchasing-by-crypto/main/image_B_570_380.png"
   },
-  "library_url": "",
+  "library_url": "https://github.com/bdshahab/iap_defold/archive/master.zip",
   "license": "MIT",
   "name": "In-app purchasing by cryptocurrency",
   "platforms": [
@@ -23,5 +23,7 @@
     "sample project",
     "template projects"
   ],
+  "timestamp": 1721936300.0,
+  "website_url": "https://lnk.bio/bdshahab"
   "timestamp": 1722335385.0
 }
